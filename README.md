@@ -1,0 +1,2 @@
+# Secure-Small-Business-Coffee-Shop-Network-Cisco-Packet-Tracer-Networking-Security-Project
+Designed and configured a secure small-business coffee shop network using Cisco Packet Tracer.  The project demonstrates practical networking and security skills through:  • Network topology planning and design • VLAN segmentation • Router-on-a-Stick inter-VLAN routing • Trunk and access port configuration • DHCP configuration • SSH 
